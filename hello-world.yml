@@ -1,7 +1,7 @@
 security:
   user:
-    name: "anuj"
-    password: "anuj"
+    name: anuj
+    password: anuj
 
 security:
   basic:

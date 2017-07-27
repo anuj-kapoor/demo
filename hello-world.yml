@@ -1,4 +1,4 @@
-name: greeting-config
+name: hello-world
 security:
   basic:
     enabled: false

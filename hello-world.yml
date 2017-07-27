@@ -2,8 +2,7 @@ security:
   user:
     name: anuj
     password: anuj
-
-security:
+    
   basic:
     enabled: false
 

@@ -1,8 +1,4 @@
 security:
-  user:
-    name: anuj
-    password: anuj
-    
   basic:
     enabled: false
 

@@ -1,1 +1,4 @@
-name:anuj
+security:
+  user:
+    name: "anuj"
+    password: "anuj"
